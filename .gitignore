@@ -29,4 +29,6 @@ hs_err_pid*
 # Eclipse artifacts, including WTP generated manifests
 .classpath
 .project
+.settings
+
 
