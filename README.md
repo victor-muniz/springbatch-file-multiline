@@ -1,5 +1,5 @@
 # springbatch-file-multiline
-Processa vários arquivos de entrada com linhas com layout diferentes e gera vários arquivos com o mesmo layout.
+Processamento batch de vários arquivos de entrada com linhas com layout diferentes e gera vários arquivos com o mesmo layout.
 
 # Layout do Arquivo de Entrada
 
@@ -11,7 +11,7 @@ O arquivo de entrada é formado pelos os seguintes tipos:
 
 # Exemplo
 
-**HEADER**#|03.847.655/0001-98#|Estabelecimento 1<br>
-**DETAIL**#|03.847.655/0001-98#|100#|200#|300#|400#|500#|600#|700#|800#|900#|1000#|1100#|1200<br>
+**HEADER**#|03.847.655/0001-98#|Padaria São Jorge<br>
+**DETAIL**#|03.847.655/0001-98#|100,00#|200,00#|300,00#|400,00#|500,00#|600,00#|700,00#|800,00#|900,00#|1000,00#|1100,00#|1200,00<br>
 **FOOTER**
 
