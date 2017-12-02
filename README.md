@@ -5,9 +5,9 @@ Processa vários arquivos de entrada com linhas com layout diferentes e gera vá
 
 O arquivo de entrada é formado pelos os seguintes tipos:
 
-**Tipo HEADER**--> Contém o cnpj e nome do estabelecimento separado por **#|** <br>
-**Tipo Detail**--> Contém o cnpj e os valores em reais dos meses de janeiro a dezembro separado por **#|** <br>
-**Tipo FOOTER**--> Não contém nenhum informação, server para indicar o fim das informações de um estabelecimento <br>
+**Tipo HEADER** --> Contém o cnpj e nome do estabelecimento separado por **#|** <br>
+**Tipo Detail** --> Contém o cnpj e os valores em reais dos meses de janeiro a dezembro separado por **#|** <br>
+**Tipo FOOTER** --> Não contém nenhum informação, server para indicar o fim das informações de um estabelecimento <br>
 
 # Exemplo
 
